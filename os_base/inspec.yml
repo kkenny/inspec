@@ -1,0 +1,10 @@
+name: os_base
+title: InSpec os_base Profile
+maintainer: me
+copyright: me
+copyright_email: me@me.com
+license: All Rights Reserved
+summary: Tests for OS_Base Configuration
+version: 1.0.3
+supports:
+  - platform-family: unix
